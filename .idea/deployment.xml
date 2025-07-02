@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@connect.cqa1.seetacloud.com:29256 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.cqa1.seetacloud.com:29256 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/CCKS-2021-Financial-Event-Extraction_Rank-6th-main" local="$PROJECT_DIR$/model_dyg" />
+            <mapping deploy="/root/autodl-tmp/CCKS-2021-Financial-Event-Extraction_Rank-6th-main" local="$PROJECT_DIR$/data_DuEE" />
+            <mapping deploy="/root/autodl-tmp/CCKS-2021-Financial-Event-Extraction_Rank-6th-main" local="$PROJECT_DIR$/data_RAMS" />
+            <mapping deploy="/root/autodl-tmp/CCKS-2021-Financial-Event-Extraction_Rank-6th-main" local="$PROJECT_DIR$/data_ace" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.cqa1.seetacloud.com:29256 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/CCKS-2021-Financial-Event-Extraction_Rank-6th-main/model_dyg" local="$PROJECT_DIR$/model_dyg" />
+            <mapping deploy="/root/autodl-tmp/CCKS-2021-Financial-Event-Extraction_Rank-6th-main/data_RAMS" local="$PROJECT_DIR$/data_RAMS" />
+            <mapping deploy="/root/autodl-tmp/CCKS-2021-Financial-Event-Extraction_Rank-6th-main/data_DuEE" local="$PROJECT_DIR$/data_DuEE" />
+            <mapping local="" />
+            <mapping />
+            <mapping />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.cqa1.seetacloud.com:29256 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/CCKS-2021-Financial-Event-Extraction_Rank-6th-main/model_dyg" local="$PROJECT_DIR$/model_dyg" />
+            <mapping deploy="/root/autodl-tmp/CCKS-2021-Financial-Event-Extraction_Rank-6th-main/data_DuEE" local="$PROJECT_DIR$/data_DuEE" />
+            <mapping deploy="/root/autodl-tmp/CCKS-2021-Financial-Event-Extraction_Rank-6th-main/data_RAMS" local="$PROJECT_DIR$/data_RAMS" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.cqa1.seetacloud.com:29256 password (5)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb1.seetacloud.com:34604 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb1.seetacloud.com:34604 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb1.seetacloud.com:34604 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp" local="$PROJECT_DIR$/cudnn-linux-x86_64-8.7.0.84_cuda11-archive" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@js1.blockelite.cn:16428 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_703" local="$PROJECT_DIR$/../../../event_extraction_model/DocEE-main" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
