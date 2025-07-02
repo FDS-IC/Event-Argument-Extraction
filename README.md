@@ -13,7 +13,7 @@
 
 ## 运行步骤
 ### 训练
-> python train_roberta_model.py  --dataset data --num_epochs 30 --model_folder saved_model_roberta_split_train_data_base --seed 2021 --device_num 0 --bert_model_dir chinese_roberta_wwm_ext_pytorch --batch_size 9 --learning_rate 5e-5 --gradient_accumulation_steps 1 --type all --train_or_predict 1 --train_dev_split_rate 0.8 --bert_model_dir /root/autodl-tmp/CCKS-2021-Financial-Event-Extraction_Rank-6th-main/chinese_roberta_wwm_ext_pytorch
+> python train_roberta_model.py  --dataset data --num_epochs 30 --model_folder saved_model_roberta_split_train_data_base --seed 2021 --device_num 0 --bert_model_dir chinese_roberta_wwm_ext_pytorch --batch_size 9 --learning_rate 5e-5 --gradient_accumulation_steps 1 --type all --train_or_predict 1 --train_dev_split_rate 0.8 --bert_model_dir /root/autodl-tmp/telecommunication_fraud_extraction_extraction /chinese_roberta_wwm_ext_pytorch
 ### 预测
 > 
 ### 相关说明
